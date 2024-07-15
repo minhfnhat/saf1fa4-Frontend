@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Productivity and Collaboration in One Seamless Platform",
+        "title": "Empower Your Workday with Woker"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Empower Your Workday with Woker",
+  "subtitle": "Transform Productivity and Collaboration in One Seamless Platform"
+}
